@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**pb-pub/pb-pub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Github Stats Section -->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/matheohan">
+          <img align="center" src="https://vercel-stats-blue.vercel.app/api?username=pb-pub&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Mᴏsᴛ Usᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/matheohan">
+          <img align="center" src="https://vercel-stats-blue.vercel.app/api/top-langs/?username=pb-pub&layout=compact&count_private=true&theme=nightowl" alt="Most Used Languages" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
